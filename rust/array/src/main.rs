@@ -3,4 +3,5 @@ fn main() {
     println!("{:?}", a);
     println!("{}", "hello world!");
     println!("hello");
+    println!("ho");
 }
